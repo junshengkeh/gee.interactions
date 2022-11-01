@@ -7,7 +7,7 @@ Authors@R:
     person("Jun Sheng", "Keh", , "junshengkeh@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: use_mit_license()
-Depends:
+Imports:
     geepack,
     ggplot2,
     ggpubr,
