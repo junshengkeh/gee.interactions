@@ -1,0 +1,21 @@
+Package: gee.interactions
+Title: Create plots for interactions run using Generalised Estimating
+    Equations
+Version: 0.1-0
+Date: 2021-10-31
+Authors@R: 
+    person("Jun Sheng", "Keh", , "junshengkeh@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: use_mit_license()
+Depends:
+    geepack,
+    ggplot2,
+    ggpubr,
+    gridExtra,
+    rlang
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
